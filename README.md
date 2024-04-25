@@ -1,1 +1,2 @@
-# llama3-GenDS
+# Llama 3 🦙 Generate Data Structure Code in C
+
