@@ -1,2 +1,2 @@
-# Fine-tune Llama 3 🦙 - Generate Data Structure Code in C
+# Fine-tune Llama 3 🦙 - Generate Code in Python
 
